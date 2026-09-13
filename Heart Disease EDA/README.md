@@ -154,3 +154,9 @@ The dataset is fully cleaned and transformed for the next stage of the data scie
 ## 📚 Learning Objective
 
 This project was completed as part of learning **Exploratory Data Analysis (EDA)** and **Machine Learning preprocessing** in a Data Science workflow using Python.
+
+---
+
+## 👩‍💻 Author
+
+**Mubashshera Khan**
